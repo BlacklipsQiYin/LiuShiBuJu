@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.bawei.liushibuju.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/text_flag_01"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"/>
+
+        <TextView
+            style="@style/text_flag_01"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="麻辣小龙虾"/>
+
+        <TextView
+            style="@style/text_flag_01"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="周黑鸭"/>
+
+        <TextView
+            style="@style/text_flag_01"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="奥利奥巧克力棒"/>
+        <TextView
+            style="@style/text_flag_01"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="旺仔仙贝"/>
+
+        <TextView
+            style="@style/text_flag_01"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="健力宝"/>
+
+        <TextView
+            style="@style/text_flag_01"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="灯影牛肉"/>
+        <TextView
+            style="@style/text_flag_01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="百草味松子"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="风干牛肉"/>
+
+        <TextView
+            style="@style/text_flag_01"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="良品铺子风琴鱿鱼"/>
+
+        <TextView
+            style="@style/text_flag_01"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="精武鸭脖"/>
+
+
+
+    </com.bawei.liushibuju.FlowLayout>
+
+</LinearLayout>
