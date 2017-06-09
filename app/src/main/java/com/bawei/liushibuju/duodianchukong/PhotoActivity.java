@@ -41,7 +41,7 @@ public class PhotoActivity extends Activity implements View.OnTouchListener{
 
 
         /*
-        布局ImageView必须添加android:scaleType="matrix"属性
+        重点：布局ImageView必须添加android:scaleType="matrix"属性
          */
         mImageView = (ImageView) this.findViewById(R.id.imageView);
         mImageView.setOnTouchListener(this);
