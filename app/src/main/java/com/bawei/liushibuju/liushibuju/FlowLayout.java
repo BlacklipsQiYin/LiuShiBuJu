@@ -1,4 +1,4 @@
-package com.bawei.liushibuju;
+package com.bawei.liushibuju.liushibuju;
 
 import android.content.Context;
 import android.util.AttributeSet;
